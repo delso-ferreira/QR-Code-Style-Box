@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Design
 
-<h3> Final result </h3>
+<h3> Final result</h3>
 <img src="./images/qr-code-challenge.png">
 
 ### Built with
