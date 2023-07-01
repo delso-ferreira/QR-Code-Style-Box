@@ -22,4 +22,3 @@ Global variables, custom properties
 ## Author
 
 - Linkedin - [@delsoferreira](https://www.linkedin.com/in/delsoferreira/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
