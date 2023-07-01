@@ -9,11 +9,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Built with
 
-:arrow_forward: Semantic HTML5 markup
-:arrow_forward: CSS custom properties
-:arrow_forward: CSS BEM 
-:arrow_forward: Flexbox
-:arrow_forward: Mobile-first workflow
+<p>:arrow_forward: Semantic HTML5 markup</p>
+<p>:arrow_forward: CSS custom properties</p>
+<p>:arrow_forward: CSS BEM</p> 
+<p>:arrow_forward: Flexbox</p>
+<p>:arrow_forward: Mobile-first workflow</p>
 
 ### What I learned
 
